@@ -1,0 +1,26 @@
+{
+  "name": "spacewhois",
+  "version": "0.0.0",
+  "description": "spacewhois ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k9ordon/spacewhois.git"
+  },
+  "keywords": [
+    "whois"
+  ],
+  "author": "k9ordon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k9ordon/spacewhois/issues"
+  },
+  "homepage": "https://github.com/k9ordon/spacewhois",
+  "dependencies": {
+    "whoisclient": "^0.1.1",
+    "express": "^4.4.3"
+  }
+}
